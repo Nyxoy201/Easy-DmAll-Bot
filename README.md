@@ -12,8 +12,8 @@
 
 
 ## <a id="features"></a>🛠 » Features
-1. DmAll with custom message
-2. DmAll with custom embed
+1. `DmAll with custom message`
+2. `DmAll with custom embed`
 
 ## <a id="setup"></a> 📁 » Setting up
 
