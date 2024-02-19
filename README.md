@@ -1,5 +1,5 @@
 <h1 align="center">
- 🌿 Easy DmAll Bot 🤖
+ 🔑 Easy DmAll Bot 🤖
 </h1>
 
 ---
