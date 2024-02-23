@@ -26,17 +26,33 @@ Change some embed settings in config.json :
 
 ```json
 {
-  "manager": "Manager_Token",
-  "owner": "Owner_ID",
-  "role": [
-    ROLE_ID
-  ],
-  "user": {
-DON'T TOUCH
-},
-  "logprivé": [
-    "DON'T TOUCH"
-  ]
+  "dm_config": {
+    "title": "Your title",
+    "description": "Your Description",
+    "color": 4886754,
+    "thumbnail": "https://image.png/",
+    "fields": [
+      {
+        "name": "Field 1",
+        "value": "Value 1",
+        "inline": false
+      },
+      {
+        "name": "Field 2",
+        "value": "Value 2",
+        "inline": false
+      },
+      {
+        "name": "Field 3",
+        "value": "Value 3",
+        "inline": false
+      }
+    ],
+    "footer": {
+      "text": "Join or gay",
+      "icon_url": "https://image.png/"
+    }
+  }
 }
 
 ```
