@@ -57,7 +57,7 @@ Change some embed settings in config.json :
 
 ```
 ---
-*The script was made by several peoples*
+*The script was made by Nyxoy*
 ---
 
 Thanks to Nekros for this nice readme template that saved me time. <3
